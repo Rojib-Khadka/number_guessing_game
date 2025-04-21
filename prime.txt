@@ -1,1 +1,0 @@
-The character represents a prime number.
